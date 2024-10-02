@@ -1,6 +1,6 @@
 # Ceramic-art - Decorative Ceramics Shop
 
-This project is an online store for decorative ceramics (ceramic and plaster figurines, pots) built using Spring Boot, Hibernate, and MySQL database. The frontend will be developed in Angular in the future.
+This project is an online store for decorative ceramics (ceramic and plaster figurines, pots). It allows users to browse products, add them to their cart, and place orders, while administrators can manage the product catalog and user orders. The frontend will be developed in Angular in the future.
 
 ## Features
 
